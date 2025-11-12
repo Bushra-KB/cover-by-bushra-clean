@@ -15,5 +15,6 @@ email-validator>=2.1.0.post1
 SQLAlchemy>=2.0.32
 passlib[bcrypt]>=1.7.4
 streamlit-oauth>=0.1.6
+httpx-oauth<0.14
 google-auth>=2.33.0
 google-auth-oauthlib>=1.2.1
